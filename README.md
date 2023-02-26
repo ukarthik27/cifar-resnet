@@ -11,4 +11,4 @@ sizes in the model architecture owing to the sparse features in CIFAR-10 dataset
 3. Improved convergence time by updating learning rate dynamically on plateau which allowed quicker
 experimentation.
 
-
+Detailed Report : https://github.com/ukarthik27/cifar-resnet/blob/main/ConstrainedResNet.pdf
